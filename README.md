@@ -1,2 +1,2 @@
 # libratuari
-An open source ILS written in ndoe
+An open source ILS written in node
