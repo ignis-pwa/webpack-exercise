@@ -1,2 +1,2 @@
-# libratuari
-An open source ILS written in node
+# webpack-exercise
+A quick exercise to learn webpack
